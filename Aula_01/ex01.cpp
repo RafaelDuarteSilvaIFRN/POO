@@ -9,6 +9,6 @@ int main(){
     
     cin >> nome;
 
-    cout << "Olá, " << nome << endl;
+    cout << "Olá,  " << nome << endl;
     return 0;
 }
